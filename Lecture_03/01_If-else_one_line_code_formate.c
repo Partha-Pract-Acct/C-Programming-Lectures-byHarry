@@ -7,6 +7,6 @@ int main()
     int a = 35;
     int b = 66;
 
-    a > b ? printf("a is greater") : printf("b is greater");
+    a > b ? printf("a is greater") : printf("b is greater"); // Ternary operator;
     return 0;
 }
