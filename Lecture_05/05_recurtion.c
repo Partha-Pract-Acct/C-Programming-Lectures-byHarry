@@ -1,4 +1,4 @@
-/* Factorial using recurtion */
+/* Factorial using recursion */
 
 #include <stdio.h>
 
