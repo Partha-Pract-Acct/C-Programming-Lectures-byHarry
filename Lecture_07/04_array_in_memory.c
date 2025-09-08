@@ -1,4 +1,4 @@
-/*Array in memory */
+/* Array in memory */
 
 #include <stdio.h>
 

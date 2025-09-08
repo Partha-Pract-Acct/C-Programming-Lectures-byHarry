@@ -1,4 +1,4 @@
-/* Creat a 2D array by taking input from the user. Write a display function to print the content of this 2D array on the screen */
+/* Create a 2D array by taking input from the user. Write a display function to print the content of this 2D array on the screen */
 
 #include <stdio.h>
 
