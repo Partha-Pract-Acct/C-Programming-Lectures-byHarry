@@ -5,7 +5,7 @@
 int main()
 {
     FILE *ptr;
-    ptr = fopen("write.txt", "r");
+    ptr = fopen("partha.txt", "r");
     char c = fgetc(ptr);
     printf("%c", c);
     return 0;
